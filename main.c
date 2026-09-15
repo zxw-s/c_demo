@@ -7,5 +7,7 @@ int main(void)
     int b = 200;
     printf("a + b = %d\n", a + b);
     printf("修改：a - b = %d\n", a - b);
+    // 新功能：乘法
+    printf("a * b = %d\n", a * b);
     return 0;
 }
