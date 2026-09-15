@@ -16,7 +16,7 @@
 ### 本地编译
 
 ```bash
-gcc main.c -o main.exe
+gcc main.c -o main.exe -fexec-charset=GBK
 ```
 
 ### 运行程序
@@ -32,5 +32,3 @@ Linux / Mac：
 ```bash
 ./main
 ```
-
-
