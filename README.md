@@ -1,6 +1,6 @@
-# C语言演示项目 c_demo
+# C语言演示项目 c_github
 
-这是一个用于练习 Git & GitHub 的简单 C 语言示例程序。
+这是一个用于练习 Git & GitHub & Gitee的简单 C 语言示例程序。
 
 ## 项目功能
 
